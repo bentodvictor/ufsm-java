@@ -1,2 +1,2 @@
-# Java-POO
-5º Semestre do curso de Engenharia da Computação - UFSM
+# Java
+Java material from 5th semester of Computer Engineering - UFSM
